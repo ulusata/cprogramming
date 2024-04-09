@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712661360 source:c:\users\admin\desktop\software\c\projects\rhombus_plotter\main.c
+	<stdio.h>
+	<stdlib.h>
+
